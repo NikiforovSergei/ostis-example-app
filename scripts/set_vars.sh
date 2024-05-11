@@ -14,8 +14,8 @@ export PLATFORM_COMMIT=""
 export PLATFORM_PATH="${APP_ROOT_PATH}/ostis-web-platform"
 
 export SC_MACHINE_REPO="https://github.com/ostis-ai/sc-machine.git"
-export SC_MACHINE_BRANCH="0.9.0-Unlock"
-export SC_MACHINE_COMMIT=""
+export SC_MACHINE_BRANCH="main"
+export SC_MACHINE_COMMIT="0c31948f3daae74365dbc8fa5ce1866459dcb6da"
 export SC_MACHINE_PATH="${PLATFORM_PATH}/sc-machine"
 export ROOT_CMAKE_PATH="${APP_ROOT_PATH}"
 
